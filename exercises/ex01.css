@@ -1,0 +1,32 @@
+HTML {
+    background-color: lightcoral
+}
+
+OL {
+    color: blueviolet;
+}
+
+h1 {
+    background: crimson;
+    color: burlywood
+}
+
+
+P {
+    color: rgb(38, 139, 170)
+}
+
+IMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+IMG:hover {
+    width: 900px
+}
+
+.highlight_01 {
+    background-color: black
+}
+#main {background-color:powderblue}
