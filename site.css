@@ -3,7 +3,7 @@ body {
     padding: 50px;
 }
 
-h1,
+h1 {background-color: #3d6394;}
 h2,
 h3 {
     color: #07051a;
@@ -29,7 +29,7 @@ img {
 }
 
 #introduction {
-    background: #3c1872;
+    background: #56348a;
     padding: 20px;
     border-left: 6px solid #1d1184;
     flex: 2;

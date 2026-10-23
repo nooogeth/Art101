@@ -5,19 +5,47 @@ body {
 h1 {
     background-color: cadetblue;
     text-align: center;
+
 }
 
 p1 {
     background-color: rgb(79, 116, 61);
     text-align: center;
 }
+
 .flex-container {
-  display: flex;
-  justify-content: center; 
-  align-content: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
-#top-section {  max-width: 900px;
+
+#top-section {
+    max-width: 900px;
     margin: 0 auto 0 auto;
     background: rgb(97, 23, 73);
     padding: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#bottom-section {
+    max-width: 500px;
+    height: 400px;
+    margin: 0 auto 0 auto;
+    background: rgb(23, 87, 97);
+    padding: 20px;
+}
+#needy-button { 
+    background-color:rgb(150, 90, 68);
+}
+#needy-button2 {
+    background-color: rgb(150, 90, 68);
+}
+#needy-button3 {
+    background-color: rgb(150, 90, 68);
+}
+#needy-button4 {
+    background-color: rgb(150, 90, 68);
 }
